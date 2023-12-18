@@ -1,0 +1,23 @@
+.unav {
+  background: linear-gradient(90deg, #10011b, #9309f2);
+}
+.nama {
+  /* transform: translateY(100px) ; */
+  /* transition-delay: 20ms; */
+  position: relative;
+  top: 100px;
+  /* transition: all 3s ease-in-out; */
+}
+/* .cari:hover {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+} */
+
+.unav1 {
+  background: linear-gradient(90deg, #9309f2, #10011b);
+}
+.tombolmuncul {
+  cursor: pointer;
+  background-color: #9309f2;
+  border-radius: 20px;
+  color: white;
+}
